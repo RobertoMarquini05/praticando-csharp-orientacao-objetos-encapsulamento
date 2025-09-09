@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\bin\Debug\net8.0\Desafio01.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\bin\Debug\net8.0\Desafio01.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\bin\Debug\net8.0\Desafio01.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\bin\Debug\net8.0\Desafio01.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\bin\Debug\net8.0\Desafio01.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\refint\Desafio01.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\Desafio01.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\praticando-csharp-orientacao-objetos-encapsulamento\obj\Debug\net8.0\ref\Desafio01.dll
