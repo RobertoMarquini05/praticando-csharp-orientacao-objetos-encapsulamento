@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\bin\Debug\net8.0\Desafio09.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\bin\Debug\net8.0\Desafio09.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\bin\Debug\net8.0\Desafio09.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\bin\Debug\net8.0\Desafio09.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\bin\Debug\net8.0\Desafio09.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\refint\Desafio09.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\Desafio09.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Desafio09\obj\Debug\net8.0\ref\Desafio09.dll
